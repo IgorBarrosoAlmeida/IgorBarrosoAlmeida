@@ -18,9 +18,8 @@
 
 ## 
 
-<a href="https://github.com/IgorBarrosoAlmeida"><img alt="Igor Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorBarrosoAlmeida&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1115" /></a> <a href="https://github.com/IgorBarrosoAlmeida"><img alt="Igor Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBarrosoAlmeida&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1115" />
+<a href="https://github.com/IgorBarrosoAlmeida"><img alt="Igor Github Stats" height="180em" src="https://github-readme-alvim-stats.vercel.app/api?username=IgorBarrosoAlmeida&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1115" /></a> <a href="https://github.com/IgorBarrosoAlmeida"><img alt="Igor Top Languages" height="180em" src="https://github-readme-alvim-stats.vercel.app/api/top-langs/?username=IgorBarrosoAlmeida&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1115" />
 </a>
-
 
 <!--
 <a href="https://github.com/IgorBarrosoAlmeida"><img alt="Igor Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorBarrosoAlmeida&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1115" /></a>
