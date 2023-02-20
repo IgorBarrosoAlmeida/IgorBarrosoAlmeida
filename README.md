@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, python...
 - 💬 Ask me about C and Java
 - 📫 How to reach me: igorba867@gmail.com
-- <a href="https://cursos.alura.com.br/user/igorba867/fullCertificate/6eae8eb7737e6b9bdc12ff98d20f6ae6" target="_blank">Alura courses</a>
+- <a href="https://cursos.alura.com.br/user/igorbarroso/fullCertificate/6eae8eb7737e6b9bdc12ff98d20f6ae6" target="_blank">Alura courses</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
