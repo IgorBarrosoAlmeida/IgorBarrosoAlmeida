@@ -1,8 +1,7 @@
 ### Hi there, I'm Igor Barroso 👋
 
-- 🔭 I'm currently studying at coltec-UFMG
-- 🌱 I’m currently learning HTML, CSS, JavaScript, python...
-- 💬 Ask me about C and Java
+- 🔭 Secundary and technical school at "Colégio Técnico UFMG" in the systems development course
+- 🌱 I’m currently learning C#, .NET, WordPress, SQL...
 - 📫 How to reach me: igorba867@gmail.com
 - <a href="https://cursos.alura.com.br/user/igorbarroso/fullCertificate/6eae8eb7737e6b9bdc12ff98d20f6ae6" target="_blank">Alura courses</a>
 
