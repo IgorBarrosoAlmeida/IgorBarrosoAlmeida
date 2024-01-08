@@ -16,6 +16,7 @@
 </div>
 
 ## 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IgorBarrosoAlmeida&theme=react&hide_border=true&background=0D1115)](https://git.io/streak-stats)
 
 <a href="https://github.com/IgorBarrosoAlmeida"><img alt="Igor Github Stats" height="180em" src="https://github-readme-stats-alpha-nine-47.vercel.app/api?username=IgorBarrosoAlmeida&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1115" /></a> <a href="https://github.com/IgorBarrosoAlmeida"><img alt="Igor Top Languages" height="180em" src="https://github-readme-stats-alpha-nine-47.vercel.app/api/top-langs/?username=IgorBarrosoAlmeida&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1115" />
 </a>
